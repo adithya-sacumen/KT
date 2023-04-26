@@ -11,3 +11,6 @@ def say_hi_fun():
 print(say_hi_fun())
 
 """demo"""
+
+def say_hello_fun():
+    return "Hello"
